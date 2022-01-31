@@ -3,7 +3,7 @@
 
 [![N|Solid](7.png)](https://github.com/noursakis/PROJET-BRAS-ROBOTIQUE)
 
-For ou project , we are supposed to use the **ROS NOESTIC** distrubution in order to command our robot.
+For our project , we are supposed to use the **ROS NOESTIC** distrubution in order to command our robot.
 To do so , we need firstly to install **Ubuntu 20.04 Desktop** for Raspberry Pi 4.
 In our case , we choosed the **Ubuntu 20.04 Mate** version.
 
