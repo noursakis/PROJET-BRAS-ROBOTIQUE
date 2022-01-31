@@ -60,6 +60,8 @@ sudo apt install openssh-client
 ```
 
 Next , you enable it on the raspi-config menu
+
+
 ![image](8.png)
 
 
