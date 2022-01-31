@@ -59,6 +59,8 @@ Ssh is a way to control your RPi remotley . To enable Ssh on ubuntu :
 sudo apt install openssh-client
 ```
 
+Next , you enable it on the raspi-config menu
+![image](8.png)
 
 
 
