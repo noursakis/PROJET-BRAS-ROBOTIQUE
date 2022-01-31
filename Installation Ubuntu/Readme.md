@@ -1,5 +1,5 @@
 # Readme 
-## _By Baaziz Elmehdi_
+
 
 [![N|Solid](7.png)](https://github.com/noursakis/PROJET-BRAS-ROBOTIQUE)
 
