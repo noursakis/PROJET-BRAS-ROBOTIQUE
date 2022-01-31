@@ -43,6 +43,8 @@ sudo raspi-config
 ```
 
 For more details , visit this [link](https://chuckmails.medium.com/enable-pi-camera-with-raspberry-pi4-ubuntu-20-10-327208312f6e)
+
+
 ![image](4.png)
 
 Sometimes , you can have an old version of raspi-config , therefore you might not see some fearutres such as Interfacing options ( Camera , Ssh ....).
