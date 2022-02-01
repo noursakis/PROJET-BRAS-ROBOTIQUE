@@ -14,7 +14,7 @@ We go to the [officiel website](https://ubuntu-mate.org/download/)  and download
 ![image](1.jpeg)
 ![image](2.jpeg)
 
-Next , we burn the iso file on our Sd card ( using for example [RP imager](https://www.raspberrypi.com/software/))
+Next , we upload the iso file to our Sd card ( using for example [RP imager](https://www.raspberrypi.com/software/))
 
 
 ## Update and Upgrade
