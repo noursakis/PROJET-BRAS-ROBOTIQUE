@@ -1,0 +1,3 @@
+```bsh
+sudo get update
+```
