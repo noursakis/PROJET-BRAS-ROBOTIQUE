@@ -23,6 +23,9 @@ First set your language, then set your keyboard layout.
 ![image](9.png)
 
 Now pick yourself a time zone. 
+
+
+
 ![image](10.png)
 
 You will be prompted to choose a local Wi-Fi network. Select your Wi-Fi network and enter the password in the network connection screen.
