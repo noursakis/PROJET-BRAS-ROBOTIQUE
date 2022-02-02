@@ -16,6 +16,22 @@ We go to the [officiel website](https://ubuntu-mate.org/download/)  and download
 
 Next , we upload the iso file to our Sd card ( using for example [RP imager](https://www.raspberrypi.com/software/))
 
+## Installation
+Ensure your HDMI screen and a USB keyboard are plugged in before powering the Pi. You will be able to see the boot process on screen and, eventually, the first run wizard.
+
+First set your language, then set your keyboard layout.
+![image](9.png)
+
+Now pick yourself a time zone. 
+![image](10.png)
+
+You will be prompted to choose a local Wi-Fi network. Select your Wi-Fi network and enter the password in the network connection screen.
+
+Now choose a user name and password.
+![image](11.png)
+
+After setting the keyboard layout, timezone and user credentials you’ll be taken to the login screen after a few minutes. And voila! You are almost done.
+
 
 ## Update and Upgrade
 
