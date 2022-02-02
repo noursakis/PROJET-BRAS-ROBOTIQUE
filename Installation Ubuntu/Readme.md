@@ -23,6 +23,7 @@ Next , we upload the iso file to our Sd card ( using for example [RP imager](htt
 ![image](12.png)
 
 ## Installation
+
 Ensure your HDMI screen and a USB keyboard are plugged in before powering the Pi. You will be able to see the boot process on screen and, eventually, the first run wizard.
 
 First set your language, then set your keyboard layout.
@@ -46,17 +47,24 @@ After setting the keyboard layout, timezone and user credentials you’ll be tak
 
 ## Update and Upgrade
 
-After successufuly installing Ubuntu Mate , we ended up with this desktop :
+After successufuly installing Ubuntu Mate , we end up with this desktop :
+
+
 ![image](3.png)
+
+
 We check if our system is up to date , and upgraded.
 In terminal
+
 ```sh
 sudo apt-get update
 sudo apt-get upgrade
 ```
+These two commands may take few minutes .
 
 
 ## Installation of raspi-config menu
+
 Raspi-config is a command that allows you to configurate your RP ( Enabling camera , ssh , vnc ....)
 In the terminal :
 ```sh
@@ -81,6 +89,7 @@ Follow the instructions [here](https://github.com/Hexxeh/rpi-update)
 
 
 ## Enabling Ssh
+
 Ssh is a way to control your RPi remotley . To enable Ssh on ubuntu :
 ```sh
 sudo apt install openssh-client
@@ -92,4 +101,4 @@ Next , you enable it on the raspi-config menu
 ![image](8.png)
 
 
-
+We can do the same process to activate the **Camera**.
