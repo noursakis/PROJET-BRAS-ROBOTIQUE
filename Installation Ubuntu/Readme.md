@@ -10,10 +10,11 @@ In our case , we choosed the **Ubuntu 20.04 Mate** version.
 
 ## Pre-installation
 
-We go to the [officiel website](https://ubuntu-mate.org/download/)  and download the system image for Raspberry 4 , and we choose the 20.04 version.
+We go to the [officiel website](https://ubuntu-mate.org/download/)  and download the system image for Raspberry 4 
 
 ![image](1.png)
 
+We choose the 20.04 version.
 ![image](2.png)
 
 Next , we upload the iso file to our Sd card ( using for example [RP imager](https://www.raspberrypi.com/software/))
