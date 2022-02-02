@@ -20,6 +20,8 @@ We choose the 20.04 version.
 
 Next , we upload the iso file to our Sd card ( using for example [RP imager](https://www.raspberrypi.com/software/))
 
+![image](12.png)
+
 ## Installation
 Ensure your HDMI screen and a USB keyboard are plugged in before powering the Pi. You will be able to see the boot process on screen and, eventually, the first run wizard.
 
