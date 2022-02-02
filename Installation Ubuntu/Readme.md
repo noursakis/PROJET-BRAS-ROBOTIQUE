@@ -15,6 +15,7 @@ We go to the [officiel website](https://ubuntu-mate.org/download/)  and download
 ![image](1.png)
 
 We choose the 20.04 version.
+
 ![image](2.png)
 
 Next , we upload the iso file to our Sd card ( using for example [RP imager](https://www.raspberrypi.com/software/))
