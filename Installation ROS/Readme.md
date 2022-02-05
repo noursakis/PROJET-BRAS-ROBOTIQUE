@@ -7,7 +7,8 @@ The PincherX 100 is a small 5-DOF robot arm. The arm can be controlled through R
 
 ## Installing ROS
 After installing Ubuntu 20.04 on our Raspberry Pi 4B , now we need to install ROS.
-The Robot Operating System (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it's all open source.
+
+The **Robot Operating System** (ROS) is a set of software libraries and tools that help you build robot applications. From drivers to state-of-the-art algorithms, and with powerful developer tools, ROS has what you need for your next robotics project. And it's all open source.
 
 For our robot , we need to install the _**Noetic**_ version.
 Before starting , note that you should:
