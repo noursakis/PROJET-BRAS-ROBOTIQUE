@@ -2,8 +2,6 @@
 ![image](b.png)
 
 
-The PincherX 100 is a small 5-DOF robot arm. The arm can be controlled through ROS or directly through its python API.
-
 
 ## Installing ROS
 After installing Ubuntu 20.04 on our Raspberry Pi 4B , now we need to install ROS.
