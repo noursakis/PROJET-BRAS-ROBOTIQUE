@@ -1,5 +1,5 @@
 # Installing ROS and the Packages: 
-![image](a.png)
+![image](b.png)
 
 
 The PincherX 100 is a small 5-DOF robot arm. The arm can be controlled through ROS or directly through its python API.
