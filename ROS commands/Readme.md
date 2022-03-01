@@ -1,6 +1,6 @@
 # Readme
 
-In this section, we are going to explore some basic commands to manipulate the robot , as well as how to create a workspace and our first node.
+In this section, we are going to explore some basic commands to manipulate the robot , as well as creating create our workspace and our first node.
 
 ## Commands to test the robot
 One of the best way to get motivated while working on a project , is to see the final results to have a clear image about your objectif and how you are going to proceed.
