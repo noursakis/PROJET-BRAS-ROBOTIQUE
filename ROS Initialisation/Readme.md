@@ -95,9 +95,9 @@ This command creates a package ( folder ) named test , with std_msgs , rospy , r
 ### Node : Publisher/Subscriber
 
 We choosed to write our programms using python.
-For this step , it's recommended to visit the official website to get a better understanding about the Publisher/Subscriber node.[Here_1](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) then [Here_2](http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber).
+For this step , it's recommended to visit the official website to get a better understanding of the Publisher/Subscriber node.[Here_1](http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29) then [Here_2](http://wiki.ros.org/ROS/Tutorials/ExaminingPublisherSubscriber).
 
-Once finishe writting the program , make it executable and build it:
+Once finished , make the py file executable and build it:
 ```bash
 chmod +x publisher.py # it will become green
 catkin_make # in the workspace folder
