@@ -1,4 +1,4 @@
-
+# Readme : Smart Robotic Arm
 
 ## About the project
 The main objectif of our project is to manipulate a robot arm ( PincherX 100 ) using simple commands . We are using a Rasbperry Pi 4b as our board , and Ubuntu  as our OS.
