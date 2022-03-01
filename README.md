@@ -1,4 +1,3 @@
-# Readme : Smart Robotic Arm
 
 
 ## About the project
