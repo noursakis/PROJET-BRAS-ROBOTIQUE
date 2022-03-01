@@ -1,3 +1,4 @@
+# Readme
 
 In this section, we are going to explore some basic commands to manipulate the robot , as well as how to create a workspace and our first node.
 
