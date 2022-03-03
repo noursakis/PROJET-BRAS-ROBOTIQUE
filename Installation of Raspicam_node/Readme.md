@@ -32,7 +32,7 @@ rosdep update
 Install the ros dependencies,
 ```sh
 cd ~/catkin_ws
-rosdep install --from-paths src --ignore-src --rosdistro=kinetic -y
+rosdep install --from-paths src --ignore-src --rosdistro=noetic -y
 ```
 The final step in the build instructions is to Compile the code
 ```sh
