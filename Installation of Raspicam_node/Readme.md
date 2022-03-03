@@ -1,5 +1,7 @@
 # The installation of the raspicam_node
 ROS node for the Raspberry Pi Camera Module. Works with both the V1.x and V2.x versions of the module. We are using the v2.x cameras as they have better auto gain, and the general image quality is better.
+![image](Raspi&ROS.jpeg)
+
 ## Installation
 To start the installation run :
 ```sh
