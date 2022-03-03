@@ -38,7 +38,7 @@ The final step in the build instructions is to Compile the code
 ```sh
 catkin_make
 ```
-#####  Verification 
+###  Verification 
 After installing the raspicam_node on Ubuntu 20.04 with ROS Noetic, we have to make sure that the camera works properly by using this command 
 ```sh
 raspistill 
@@ -75,7 +75,7 @@ catkin_make
 If `catkin_make` takes more than a few minutes to build, it's possibly because the Pi is out of RAM.
 If so, you can use a swapfile with this tutorial and then `catkin_make` only took like 2 minutes(luckily it worked for us without using this step).
 
-##### Testing the camera node 
+### Testing the camera node 
 On your PC:
 ```sh
 roscore
