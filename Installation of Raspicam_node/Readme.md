@@ -86,7 +86,7 @@ roslaunch raspicam_node camerav2_1280x960.launch
 ```
 On your PC:
 ```sh
-rqt_image_viewer
+rqt_image_view
 ```
 At the top of the image viewer, select the `raspicam_node` topic
 
