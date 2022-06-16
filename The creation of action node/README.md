@@ -46,4 +46,7 @@ You can find in this folder the corresponding code explained with details in the
 - https://github.com/Interbotix/interbotix_ros_arms/blob/cb9f5feb6c51190561e05896ba39cd1cce133875/interbotix_sdk/src/interbotix_sdk/robot_manipulation.py#L135
 - http://wiki.ros.org/rostopic
 - https://www.trossenrobotics.com/docs/interbotix_xsarms/specifications/px100.html# 
+- http://wiki.ros.org/rospy/Overview/Publishers%20and%20Subscribers
+- http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics
+- https://www.theconstructsim.com/morpheus-chair-dynamixel-servos-with-robot-arm-ros-s4-ep-1/
 
