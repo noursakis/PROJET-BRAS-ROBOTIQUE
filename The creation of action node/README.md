@@ -37,6 +37,8 @@ gedit filename.py
 geany filename.py
 nano filename.py
 ```
+You can find in this folder the corresponding code explained with details in the comments.
+
 ## Ressources
 - https://docs.ros.org/en/api/
 - http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
